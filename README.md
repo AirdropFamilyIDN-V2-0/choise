@@ -4,7 +4,7 @@
 
 # How to run
 ```
-cd https://github.com/AirdropFamilyIDN-V2-0/choise.git
+git clone https://github.com/AirdropFamilyIDN-V2-0/choise.git
 ```
 ```
 cd choise
